@@ -3,7 +3,9 @@
   text-align: center;
   font-size: 12px;
 }
-
+.layui-header{
+  background-color: #3a3a3a !important;
+}
 .iconfont {
   margin-right: 8px;
 }
